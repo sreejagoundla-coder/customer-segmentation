@@ -1,13 +1,13 @@
 # Customer Segmentation using Unsupervised Learning
 
-**Data Science – Project 3 | DecodeLabs Industrial Training Kit (Batch 2026)**
+**Data Science – Project 3 | Data Science | DecodeLabs Internship (Batch 2026)**
 
 Segment retail customers into actionable business personas using **StandardScaler → PCA → K-Means**, with the optimal number of clusters proven by the **Elbow Method** and **Silhouette Score**.
 
 ---
 
 ## 🎯 Objective
-
+ 
 Use distance-based algorithms to discover hidden groupings in unlabeled retail data and translate them into marketing personas.
 
 ## 🧱 Pipeline (IPO Architecture)
